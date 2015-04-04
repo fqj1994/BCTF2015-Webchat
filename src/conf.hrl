@@ -1,0 +1,2 @@
+-define(MYSQL_USER, "chatserv").
+-define(MYSQL_PASS, "").
